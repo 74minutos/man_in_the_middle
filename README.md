@@ -12,4 +12,4 @@ para el móvil tendremos que configurar nuestro proxy para que cuadre con la dir
 
 Cuando estemos en esa web nos descargaremos e instalaremos el certificado adecuado a nuestro sistema operativo.
 
-Más información en https://visiondefunnel.com/man-in-the-middle-como-generar-tu-propio-proxy
+Más información en https://visiondefunnel.com/2023/03/16/man-in-the-middle-como-generar-tu-propio-proxy
